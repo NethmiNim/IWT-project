@@ -4,6 +4,8 @@ As part of our IWT assignment, we've developed "BillMe," an online bill and even
 Users can set calendar reminders for events and payments, ensuring they are notified of both the event date and the payment deadlines. The platform also allows users to create budget plans and make utility payments, streamlining their monthly tasks and notifications.
 
 Admin users have the ability to edit content and manage users and staff. We are building this web application using HTML, CSS, PHP, and JavaScript.
+
+
 My Part- User Side
          * Billing User Dashboard
          * Bill Details page
